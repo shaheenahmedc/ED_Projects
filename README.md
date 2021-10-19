@@ -16,3 +16,5 @@ ED_Proposal_Viz - Visualisation of proposed projects
 
 ED_Intermittent_Demand - All files and notebooks for intermittent demand research project (currently trying to move to folder)
 
+ED_Safety_Stocks - All files and notebooks for safety stock calculations (also trying to move to folder)
+
