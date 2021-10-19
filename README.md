@@ -14,4 +14,5 @@ ED_Search - Search engine corpora analysis (to be uploaded)
 
 ED_Proposal_Viz - Visualisation of proposed projects
 
+ED_Intermittent_Demand - All notebooks for intermittent demand research project
 
