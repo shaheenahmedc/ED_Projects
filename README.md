@@ -10,7 +10,7 @@ ED_Webshop - Webshop year-on-year analysis (to be uploaded)
 
 ED_Customers - Customer string extraction
 
-ED_Search - Search engine corpora analysis (to be uploaded)
+ED_Corpus - Search engine corpora analysis (to be uploaded)
 
 ED_Proposal_Viz - Visualisation of proposed projects
 
